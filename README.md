@@ -1,6 +1,6 @@
 # Slash Task
 
-This Task  is only one screen which is Home Screen.
+This task consists of a single screen, the Home Screen,
 It works only on mobile.
 
 
